@@ -9,3 +9,4 @@ fillTasksListFromDB();
 
 refs.mainForm.addEventListener('submit', handleFormSubmit);
 refs.list.addEventListener('click', handleTaskClick);
+//hjkh
